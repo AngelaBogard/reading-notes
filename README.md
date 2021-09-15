@@ -3,5 +3,4 @@ Hello! My name is *Angela Bogard*. I am currently a paraeducator at an elementar
 
 # Website Pages
 - [Home](/README.md)
-- [Growth Mindset](/Growth_ Mindset.md)
-
+- [Growth Mindset](/GrowthMindset.md)
