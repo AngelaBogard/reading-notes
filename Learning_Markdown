@@ -8,15 +8,16 @@ So basically you can control/build your own website. This be really great to lea
 portfolio and even social media links to it. Very easy to share your Website link to anyone or have it in hand right away to show someone. 
 
 # Here are some sample of Markdown on this site:exclamation:
-[Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[Markdown](/https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 # What is Github:question:
 It's a website that you can go into to make your very own creative website. You will be able to create your very own domain name of your website
 that people are able to see and click on the link to go to your website. There will be a lot of help on on their site or in chat if you are stuck or need 
 help or some cheat codes to help you out. Don't be afraid to try it out. Just be creative and make it the way you want or think it will draw attention 
 from other people looking at it. 
-[Github](https://pages.github.com/)
+[*Github*](/https://pages.github.com/) 
 
-
-
-
+# Website Pages
+- [*About Me*](/README.md)
+- [*Growth Mindset*](/GrowthMindset.md)
+- [*Learn more about Markdown*](/Learning_Markdown.md)
