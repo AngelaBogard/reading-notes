@@ -6,4 +6,7 @@ Having a **Growth Mindset** is changing negative views to postive and rememberin
 2. Make an effort, don't give up. 
 3. Ask for help if I get stuck. 
 
-- [Home](/README.md)
+# Website Pages
+- [*About Me*](/README.md)
+- [*Growth Mindset*](/GrowthMindset.md)
+- [*Learn more about Markdown*](/Learning_Markdown.md)
