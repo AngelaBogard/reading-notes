@@ -1,6 +1,6 @@
 # Markdown is What?
 *Markdown* is a way to make your website look good. Make your title bold or if want to emphasize a point, you can use italics
-to draw people's attention. If you had a list of stuff that goes on and on, there is a way to be able make an acutal list.
+to draw people's attention. If you had a list of stuff that goes on and on, there is a way to be able make an actual list.
 It is a good way to make a site and will standout for your resume for a company to see what you can make and even have your social media
 links added to it and pictures if you had portfoilio, which makes it easier to show them online instead of bringing a book or giant 
 portfolio case you have to carry around. 
