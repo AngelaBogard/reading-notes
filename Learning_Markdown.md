@@ -7,7 +7,9 @@ portfolio case you have to carry around.
 So basically you can control/build your own website. This be really great to learn if you own a business, or want to combine all your resume or
 portfolio and even social media links to it. Very easy to share your Website link to anyone or have it in hand right away to show someone. 
 
-# Here are some sample of Markdown on this site:exclamation:
+# Examples of Markdown...
+![Arrow](/BlueArrow.png) 
+
 [Markdown](/https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 # What is Github:question:
@@ -15,7 +17,8 @@ It's a website that you can go into to make your very own creative website. You 
 that people are able to see and click on the link to go to your website. There will be a lot of help on on their site or in chat if you are stuck or need 
 help or some cheat codes to help you out. Don't be afraid to try it out. Just be creative and make it the way you want or think it will draw attention 
 from other people looking at it. 
-[*Github*](/https://pages.github.com/) 
+
+Refer to here for more information: [*Github*](/https://pages.github.com/) 
 
 # Website Pages
 - [*About Me*](/README.md)
