@@ -1,4 +1,4 @@
-# Markdown is What:question:
+# Markdown is What?
 *Markdown* is a way to make your website look good. Make your title bold or if want to emphasize a point, you can use italics
 to draw people's attention. If you had a list of stuff that goes on and on, there is a way to be able make an acutal list.
 It is a good way to make a site and will standout for your resume for a company to see what you can make and even have your social media
@@ -12,7 +12,7 @@ portfolio and even social media links to it. Very easy to share your Website lin
 
 [Markdown](/https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-# What is Github:question:
+# What is Github?
 It's a website that you can go into to make your very own creative website. You will be able to create your very own domain name of your website
 that people are able to see and click on the link to go to your website. There will be a lot of help on on their site or in chat if you are stuck or need 
 help or some cheat codes to help you out. Don't be afraid to try it out. Just be creative and make it the way you want or think it will draw attention 
