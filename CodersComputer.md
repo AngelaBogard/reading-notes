@@ -70,3 +70,10 @@ A file or directory location in relation to the root of the file system.
 
 
 
+# Website Pages
+- [*About Me*](/README.md)
+- [*Growth Mindset*](/GrowthMindset.md)
+- [*Learn more about Markdown*](/Learning_Markdown.md)
+- [*Coders Computer*](CodersComputer.md)
+
+
