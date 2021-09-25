@@ -43,12 +43,12 @@ if your home directory is /home/ryan then you could refer to the directory Docum
 - `dot` is a reference to your current directory. 
 eg in the example above we referred to Documents on line 4 with a relative path. It could also be written as ./Documents (Normally this extra bit is not required but in later sections we will see where it comes in handy).
 - `dotdot` is a reference to the parent directory. 
-> You can use this several times in a path to keep going up the hierarchy. eg 
-> if you were in the path /home/ryan you could run the command ls ../../ and this would do a listing of the root directory.
+You can use this several times in a path to keep going up the hierarchy. eg 
+if you were in the path /home/ryan you could run the command ls ../../ and this would do a listing of the root directory.
 
-> - `Relative path`
+- `Relative path`
 A file or directory location relative to where we currently are in the file system.
-> - `Absolute path`
+- `Absolute path`
 A file or directory location in relation to the root of the file system.
 
 # More Resources/Tutorials/Activities can find under here on the link!
