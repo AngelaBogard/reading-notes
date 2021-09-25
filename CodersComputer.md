@@ -61,17 +61,17 @@ A file or directory location in relation to the root of the file system.
 
 # Important to Remember!
 
-> Everything is a file under Linux
+* Everything is a file under Linux
 
-* Even directories
+> Even directories
 
-> Linux is an extensionless system
+* Linux is an extensionless system
 
-* Files can have any extension they like or none at all
+> Files can have any extension they like or none at all
 
-> Linux is case sensitive
+* Linux is case sensitive
 
-* Beware of silly typos
+> Beware of silly typos
 
 
 
