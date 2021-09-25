@@ -24,3 +24,5 @@ Refer to here for more information: [*Github*](/https://pages.github.com/)
 - [*About Me*](/README.md)
 - [*Growth Mindset*](/GrowthMindset.md)
 - [*Learn more about Markdown*](/Learning_Markdown.md)
+- [*Coders Computer*](CodersComputer.md)
+
