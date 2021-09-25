@@ -25,7 +25,7 @@ but there are other themes to choose from as well.
 - Brackets
 - Sublime Text
 
-> Some of these softwore are free and some will have to purchase. 
+> ### Some of these softwore are free and some will have to purchase. 
 > - Here is the link to get more information on these software: [Choosing A Text Editor](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf).
 
 
