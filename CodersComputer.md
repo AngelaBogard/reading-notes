@@ -62,10 +62,15 @@ A file or directory location in relation to the root of the file system.
 # Important to Remember!
 
 > Everything is a file under Linux
+
 * Even directories
+
 > Linux is an extensionless system
+
 * Files can have any extension they like or none at all
+
 > Linux is case sensitive
+
 * Beware of silly typos
 
 
