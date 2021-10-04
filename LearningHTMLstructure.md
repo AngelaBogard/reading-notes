@@ -99,4 +99,4 @@ Start by drawing out ideas with paper and a pencil or on a whiteboard, once you 
 - [*Learn more about Markdown*](Learning_Markdown.md)
 - [*Coders Computer*](/CodersComputer.md)
 - [*Revisions and Cloud*](/RevisionsandCloud.md)
-- [Learning HTML structure](LearningHTMLstructure.md)
+- [*Learning HTML structure*](LearningHTMLstructure.md)
