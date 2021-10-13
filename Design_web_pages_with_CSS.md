@@ -20,7 +20,7 @@ CSS is a rule-based language. you define rules specifying groups of styles that 
 
 The rule opens with a selector . This selects the HTML element that we are going to style. In this case we are styling level one headings `<h1>`
 
-### How to do the **background and boarders?** 
+### How to do the **background and borders?** 
 Click on the link here for more codes to use.
 [Background/Boarders](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders)
 
@@ -41,11 +41,11 @@ This `<link>` element tells the browser that we have a stylesheet, using the rel
 }`
  > Save your HTML and CSS files and reload the page in a web browser. The level one heading at the top of the document should now be red.
   
-  ## Three Ways to Insert CSS!
+ ## Three Ways to Insert CSS!
    Click on this link to see more! [How to add CSS?](https://www.w3schools.com/css/css_howto.asp)
   
   
-  # Website Pages
+ # Website Pages
 - [*About Me*](README.md)
 - [*Growth Mindset*](GrowthMindset.md)
 - [*Learn more about Markdown*](Learning_Markdown.md)
