@@ -66,7 +66,7 @@ A file or directory location in relation to the root of the file system.
 
 > Beware of silly typos
 
-# Website Pages
+ # Website Pages
 - [*About Me*](README.md)
 - [*Growth Mindset*](GrowthMindset.md)
 - [*Learn more about Markdown*](Learning_Markdown.md)
@@ -74,3 +74,4 @@ A file or directory location in relation to the root of the file system.
 - [*Revisions and Cloud*](RevisionsandCloud.md)
 - [*Learning HTML structure*](LearningHTMLstructure.md)
 - [*Design Website with CSS*](Design_web_pages_with_CSS.md)
+- [*Building Dynamic Webpages with JavaScript*](Dynamic_web_pages_with_JavaScript.md)
