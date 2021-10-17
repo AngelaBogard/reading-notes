@@ -99,7 +99,7 @@ myImage.onclick = function() {
 > To get more information and practice how to use JavaScript go to this link here: [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
 
- # Website Pages
+# Website Pages
 - [*About Me*](README.md)
 - [*Growth Mindset*](GrowthMindset.md)
 - [*Learn more about Markdown*](Learning_Markdown.md)
@@ -108,6 +108,7 @@ myImage.onclick = function() {
 - [*Learning HTML structure*](LearningHTMLstructure.md)
 - [*Design Website with CSS*](Design_web_pages_with_CSS.md)
 - [*Building Dynamic Webpages with JavaScript*](Dynamic_web_pages_with_JavaScript.md)
+- [*Programming with JavaScript*](Programming_with_JavaScript.md)
 
 
 
