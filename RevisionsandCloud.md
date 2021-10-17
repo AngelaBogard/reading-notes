@@ -31,6 +31,7 @@
 - [*Learning HTML structure*](LearningHTMLstructure.md)
 - [*Design Website with CSS*](Design_web_pages_with_CSS.md)
 - [*Building Dynamic Webpages with JavaScript*](Dynamic_web_pages_with_JavaScript.md)
+- [*Programming with JavaScript*](Programming_with_JavaScript.md)
 
 
 
