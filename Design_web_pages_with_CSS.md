@@ -45,7 +45,7 @@ This `<link>` element tells the browser that we have a stylesheet, using the rel
    Click on this link to see more! [How to add CSS?](https://www.w3schools.com/css/css_howto.asp)
   
   
-  # Website Pages
+ # Website Pages
 - [*About Me*](README.md)
 - [*Growth Mindset*](GrowthMindset.md)
 - [*Learn more about Markdown*](Learning_Markdown.md)
@@ -54,6 +54,7 @@ This `<link>` element tells the browser that we have a stylesheet, using the rel
 - [*Learning HTML structure*](LearningHTMLstructure.md)
 - [*Design Website with CSS*](Design_web_pages_with_CSS.md)
 - [*Building Dynamic Webpages with JavaScript*](Dynamic_web_pages_with_JavaScript.md)
+- [*Programming with JavaScript*](Programming_with_JavaScript.md)
   
 
   
