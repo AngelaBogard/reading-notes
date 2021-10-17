@@ -55,8 +55,3 @@ The **control flow** is the order in which the computer executes statements in a
 - [*Design Website with CSS*](Design_web_pages_with_CSS.md)
 - [*Building Dynamic Webpages with JavaScript*](Dynamic_web_pages_with_JavaScript.md)
 - [*Programming with JavaScript*](Programming_with_JavaScript.md)
-
-
-
-
-
