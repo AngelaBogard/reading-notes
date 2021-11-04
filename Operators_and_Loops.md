@@ -43,3 +43,15 @@ You can think of while loops as telling your app “while this happens, repeat t
   
   
 For more examples of looping click here! [Looping](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+
+# Website Pages
+- [*About Me*](README.md)
+- [*Growth Mindset*](GrowthMindset.md)
+- [*Learn more about Markdown*](Learning_Markdown.md)
+- [*Coders Computer*](CodersComputer.md)
+- [*Revisions and Cloud*](RevisionsandCloud.md)
+- [*Learning HTML structure*](LearningHTMLstructure.md)
+- [*Design Website with CSS*](Design_web_pages_with_CSS.md)
+- [*Building Dynamic Webpages with JavaScript*](Dynamic_web_pages_with_JavaScript.md)
+- [*Programming with JavaScript*](Programming_with_JavaScript.md)
+- [*Operators_and_Loops*](Operators_and_Loops.md)
